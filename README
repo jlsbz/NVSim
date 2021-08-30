@@ -30,6 +30,8 @@ Sections
     memory technologies as the current status of most 
     emerging NVMs is unknown. Thanks for trying NVSim!
 
+NVSim对相变存储器（PCM）、自旋扭转转移存储器（STT-RAM）、电阻式RAM（ReRAM）或记忆体、浮体动态RAM（FBDRAM）和单级单元NAND Flash的面积、时序、动态能量和漏电功率进行建模。NVSim使用与著名的CACTI相同的建模原理，但它是在一个全新的框架基础上从头开始的，在库/板/子阵列组织和周边电路设计方面具有更大的灵活性。这种灵活性对于新兴的非易失性存储器技术是必要的，因为大多数新兴的非易失性存储器的现状是未知的。谢谢你尝试NVSim!
+
 
 ------------------------------------------------------
 
